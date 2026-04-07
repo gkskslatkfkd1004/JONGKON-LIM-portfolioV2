@@ -220,6 +220,22 @@
 
     <script src="works-data.js?v=13"></script>
     <script src="script.js?v=19"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('img').forEach(function(img) {
+                img.addEventListener('error', function() {
+                    this.style.display = 'none';
+                    var parent = this.parentElement;
+                    if (parent && parent.children.length === 1) {
+                        parent.style.display = 'none';
+                    }
+                });
+            });
+        });
+        document.addEventListener('load', function(e) {
+            if (e.target.tagName === 'IMG' && !e.target.complete) return;
+        }, true);
+    </script>
 </body>
 
 </html>

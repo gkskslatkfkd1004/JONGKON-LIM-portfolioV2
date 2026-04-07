@@ -200,14 +200,7 @@ const WORKS_DATA = [
         stills: [
             "images/works/tum-gap-stills/tum-still-01.png",
             "images/works/tum-gap-stills/tum-still-02.png",
-            "images/works/tum-gap-stills/tum-still-03.png",
-            "images/works/tum-gap-stills/tum-still-04.png",
-            "images/works/tum-gap-stills/tum-still-05.png",
-            "images/works/tum-gap-stills/tum-still-06.png",
-            "images/works/tum-gap-stills/tum-still-07.png",
-            "images/works/tum-gap-stills/tum-still-08.png",
-            "images/works/tum-gap-stills/tum-still-09.png",
-            "images/works/tum-gap-stills/tum-still-10.png"
+            "images/works/tum-gap-stills/tum-still-03.png"
         ],
         onsetImages: [
             "images/works/teum/onset/3F6FC24E-D048-4FA6-9E49-3478391F0E3D.jpg",
@@ -437,14 +430,7 @@ const WORKS_DATA = [
         stills: [
             "images/works/villain-stills/villain-still-01.png",
             "images/works/villain-stills/villain-still-02.png",
-            "images/works/villain-stills/villain-still-03.png",
-            "images/works/villain-stills/villain-still-04.png",
-            "images/works/villain-stills/villain-still-05.png",
-            "images/works/villain-stills/villain-still-06.png",
-            "images/works/villain-stills/villain-still-07.png",
-            "images/works/villain-stills/villain-still-08.png",
-            "images/works/villain-stills/villain-still-09.png",
-            "images/works/villain-stills/villain-still-10.png"
+            "images/works/villain-stills/villain-still-03.png"
         ],
         onsetImages: [],
         storyboardImages: [],
