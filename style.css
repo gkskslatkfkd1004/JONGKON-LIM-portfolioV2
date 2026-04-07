@@ -3068,7 +3068,6 @@ footer {
     }
 
     @keyframes heroFadeInOnly {
-    @keyframes heroFadeInOnly {
         0% {
             opacity: 0;
         }
@@ -3077,10 +3076,4 @@ footer {
             opacity: 1;
         }
     }
-}
-
-/* Broken image fallback - hide images that fail to load */
-img[src=""],
-img:not([src]) {
-    display: none;
 }
