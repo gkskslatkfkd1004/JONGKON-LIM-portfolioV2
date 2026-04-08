@@ -237,10 +237,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 <!-- 3-Line Role Summary -->
                 <div class="about-hero__intro about-role-summary">
-                    <div>Sydney-based.</div>
-                    <div>Open to Junior Editor roles — Disney+ / Netflix / Korean commercial feature films experience. Ready to learn Australian workflow fast.</div>
-                    <div>Open to Camera Trainee / Utility / 2nd AC support — ready to learn Australian workflow fast.</div>
-                    <div>Short-film cinematography + commercial set experience.</div>
+                    <div>Sydney-based. AEST timezone. Valid working visa.</div>
+                    <div>Video Editor — Netflix &amp; Disney+ editorial credits across documentary, long-form drama and commercial feature. Premiere Pro specialist.</div>
+                    <div>Curious about AI-augmented workflows and what's next for post-production.</div>
                 </div>
 
                 <!-- TOOLS Section -->
@@ -248,9 +247,9 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="about-hero__tools-label">TOOLS</div>
                     <div class="about-hero__tools-divider"></div>
                     <div class="about-hero__tools-body">
-                        <div>Cameras: ARRI ALEXA Mini (setup support), RED Raptor / KOMODO (operation - short film), Sony FX3/FX6/FX9/A7S III</div>
-                        <div>Software: Premiere Pro, DaVinci Resolve</div>
-                        <div>Set: Data wrangle, batteries, media, slate support</div>
+                        <div>Primary: Adobe Premiere Pro</div>
+                        <div>Post: DaVinci Resolve, After Effects</div>
+                        <div>AI workflow: Premiere AI (Auto Reframe, Generative Extend), Runway, Topaz Video AI</div>
                     </div>
                 </div>
 
@@ -267,8 +266,8 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="about-content-layer narrative-truth-scene">
             <div class="bio-content">
                 <img src="images/classroom-still.png" alt="Classroom scene" class="narrative-still">
-                <p class="lead-text about-text-block">I shoot for precision, not impressiveness.</p>
-                <p class="about-text-block">Clarity, restraint, and intention over spectacle.</p>
+                <p class="lead-text about-text-block">I edit for the audience, not the footage.</p>
+                <p class="about-text-block">The cut that lands is the one they don't notice — until they feel it.</p>
                 
                 <!-- Minimal CTA -->
                 <div class="narrative-cta" id="next-scene-01">
